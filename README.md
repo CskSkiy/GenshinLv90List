@@ -13,7 +13,7 @@
 - 其他小功能 etc.
 
 線上預覽：https://drive.google.com/drive/folders/1TYJSltDj2DDium4nlQb2yLBLejdTXvI2?usp=drive_link
-
+# 表格當前資訊
 表格版本：1.2.2 更新日期：20241120
 
 更新內容：
